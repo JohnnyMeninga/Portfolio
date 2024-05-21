@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e5a07e-a9cf-4b56-886d-48093fe2ad03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/create-record.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/my-login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/update-record.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/view-record.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolioApp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="61e5a07e-a9cf-4b56-886d-48093fe2ad03" name="Changes" comment="project profile first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,11 +103,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716260729314</updated>
-      <workItem from="1716260729728" duration="15521000" />
+      <workItem from="1716260729728" duration="15828000" />
     </task>
+    <task id="LOCAL-00001" summary="project profile first commit">
+      <option name="closed" value="true" />
+      <created>1716292545771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716292545772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project profile first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="project profile first commit" />
   </component>
 </project>
