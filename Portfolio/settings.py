@@ -37,8 +37,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     'portfolioApp.apps.PortfolioappConfig',
+    'crispy_forms',
 ]
+
+# - This was add for the crispy-forms [auther: Johnny Meninga]
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

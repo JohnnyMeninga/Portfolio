@@ -1,5 +1,7 @@
 {% extends 'portfolioApp/base.html' %}
 
+{% load crispy_forms_tags %}
+
 
 
 
@@ -7,35 +9,39 @@
 
     <body>
 
-        <div class="container bg-light shadow-md p-5 "></div>
+        <div class="container bg-light shadow-md p-5 form-layout">
 
-        <h5> Start managing your clients today! </h5>
+            <h3> Create your account </h3>
 
-        <hr>
-        <br>
+            <h5> Start managing your clients today! </h5>
 
-        <form method="POST" autocomplete="off">
+            <hr>
+            <br>
 
-            {% csrf_token %}
+            <form method="POST" autocomplete="off">
 
-            {{ form.as_p }}
+                {% csrf_token %}
+
+                {{ form|crispy }}
+
+                <br>
+
+                <button type="submit" class="btn btn-primary w-100 btn-block p-2"> Create account </button>
+
+
+            </form>
 
             <br>
 
-            <button type="submit" class="btn btn-primary w-100 btn-block p-2"> Create account </button>
+            <div class="text-center">
 
-        </form>
+            <p> Already have an account? </p> <a href="{%  url 'my-login' %}"> Login </a>
 
-        <br>
-
-        <div class="text-center">
-
-        <p> Already have an account? </p> <a href="{%  url '' %}"> Login </a>
+            </div>
 
         </div>
 
         <br>
-
 
     </body>
 

@@ -19,7 +19,7 @@ class CreateUserForm(UserCreationForm):
 # - login a user
 
 
-class loginForm(forms.ModelForm):
+class LoginForm(forms.Form):
 
     username = forms.CharField(widget=TextInput())
     password = forms.CharField(widget=PasswordInput())
