@@ -6,15 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="61e5a07e-a9cf-4b56-886d-48093fe2ad03" name="Changes" comment="project profile first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolioApp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/my-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/my-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/templates/portfolioApp/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolioApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolioApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolioApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     &quot;Django Server.Portfolio.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Johnny Meninga/Desktop/MY DATA/WORK DATA/PROJECTS/DJANGO WEBSITE/Source Code/Portfolio/.venv&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -117,7 +117,11 @@
       <workItem from="1716260729728" duration="38205000" />
       <workItem from="1716444420735" duration="3782000" />
       <workItem from="1716725259924" duration="1840000" />
-      <workItem from="1716964745185" duration="1265000" />
+      <workItem from="1716964745185" duration="15975000" />
+      <workItem from="1717039769230" duration="4265000" />
+      <workItem from="1717123207482" duration="1331000" />
+      <workItem from="1717124562809" duration="3528000" />
+      <workItem from="1717228860894" duration="27509000" />
     </task>
     <task id="LOCAL-00001" summary="project profile first commit">
       <option name="closed" value="true" />
@@ -135,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716292636929</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="project profile first commit">
+      <option name="closed" value="true" />
+      <created>1716967259921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716967259921</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
